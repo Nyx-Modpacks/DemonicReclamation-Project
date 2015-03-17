@@ -7,4 +7,4 @@ The Jampacked 2 Entry for Nyx Modpacks
 - JackRabbit
 
 # Modlist
-Google Sheet
+[Google Sheet](https://docs.google.com/spreadsheets/d/1U2YEvQ4C5O_1uUFvwbVg72HFOckIbKkcRN6LxPkydjs)
